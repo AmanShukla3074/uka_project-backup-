@@ -1,0 +1,66 @@
+UKA Project Shedule:
+
+
+Week 1 (Dec 25, 2023 - Dec 31, 2023):
+
+    Basic Learning And Practice.
+
+    Start EC Part:
+        Complet Product Related API.
+
+
+Week 2 (Jan 1, 2024 - Jan 7, 2024):
+
+    Complet Authentication Login Related Part
+    EC Part:
+        EC API Related Part
+
+
+Week 3 (Jan 8, 2024 - Jan 14, 2024):
+
+    EC Part:
+        Complet All EC API Related Part
+        Start EC Frontend Related Part
+        
+
+
+Week 4 (Jan 15, 2024 - Jan 21, 2024):
+
+    EC Part:
+        Complet EC Frontend Related Part
+
+Week 5 (Jan 22, 2024 - Jan 28, 2024):
+
+    EC Part:
+        EC Frontend-Backend Combine Testing
+    Start MB Part:
+        Start MB API Related Part
+
+Week 6 (Jan 29, 2024 - Feb 4, 2024):
+
+    MB Part:
+        Complet MB API Related Part
+
+
+Week 7 (Feb 5, 2024 - Feb 11, 2024):
+
+    MB Part:
+        Complet MB Frontend Related Part
+
+Week 8 (Feb 12, 2024 - Feb 18, 2024):
+
+    MB Part:
+        MB Frontend-Backend Combine Testing
+    Start MS Part:
+        Start MS API Related Part
+
+
+Week 9 (Feb 19, 2024 - Feb 25, 2024):
+
+    MS Part:
+        Complet MS Frontend Related Part
+        MS Frontend-Backend Combine Testing
+
+Week 10 (Feb 26, 2024 - Feb 29, 2024):
+
+    Testing - Reviwes - Code and UI Optimization

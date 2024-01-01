@@ -1,0 +1,117 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "Product1",
+    "Category": {
+      "CategoryID": 1,
+      "CategoryName": "Category1"
+    },
+    "Colors": [
+      {
+        "ColorID": 1,
+        "ProductID": 1,
+        "Color": {
+          "ColorID": 1,
+          "ColorName": "Red"
+        },
+        "Sizes": [
+          {
+            "SizeID": 1,
+            "ProductColorID": 1,
+            "Size": {
+              "SizeID": 1,
+              "SizeName": "Small"
+            },
+            "Images": [
+              {
+                "ImageID": 1,
+                "ProductSizeID": 1,
+                "ImgUrl": "https://example.com/img1.jpg"
+              },
+              {
+                "ImageID": 2,
+                "ProductSizeID": 1,
+                "ImgUrl": "https://example.com/img2.jpg"
+              }
+            ]
+          },
+          {
+            "SizeID": 2,
+            "ProductColorID": 1,
+            "Size": {
+              "SizeID": 2,
+              "SizeName": "Medium"
+            },
+            "Images": [
+              {
+                "ImageID": 3,
+                "ProductSizeID": 2,
+                "ImgUrl": "https://example.com/img3.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ColorID": 2,
+        "ProductID": 1,
+        "Color": {
+          "ColorID": 2,
+          "ColorName": "Blue"
+        },
+        "Sizes": [
+          {
+            "SizeID": 3,
+            "ProductColorID": 2,
+            "Size": {
+              "SizeID": 3,
+              "SizeName": "Large"
+            },
+            "Images": [
+              {
+                "ImageID": 4,
+                "ProductSizeID": 3,
+                "ImgUrl": "https://example.com/img4.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "Product2",
+    "Category": {
+      "CategoryID": 2,
+      "CategoryName": "Category2"
+    },
+    "Colors": [
+      {
+        "ColorID": 3,
+        "ProductID": 2,
+        "Color": {
+          "ColorID": 3,
+          "ColorName": "Green"
+        },
+        "Sizes": [
+          {
+            "SizeID": 4,
+            "ProductColorID": 3,
+            "Size": {
+              "SizeID": 4,
+              "SizeName": "Medium"
+            },
+            "Images": [
+              {
+                "ImageID": 5,
+                "ProductSizeID": 4,
+                "ImgUrl": "https://example.com/img5.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
